@@ -1,0 +1,462 @@
+2024-08-31 16:16:12,005 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:16:12,585 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:17:17,715 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:17:18,405 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:17:36,726 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 16:17:51,546 - JainDIrect -INFO - Entering OTP
+2024-08-31 16:19:52,111 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:19:52,606 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:20:10,951 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 16:20:25,521 - JainDIrect -INFO - Entering OTP
+2024-08-31 16:20:35,915 - JainDIrect -INFO - Login test failed
+2024-08-31 16:20:36,507 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 16:28:30,018 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:28:30,611 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:28:48,880 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 16:29:02,583 - JainDIrect -INFO - Entering OTP
+2024-08-31 16:29:12,999 - JainDIrect -INFO - Login test failed
+2024-08-31 16:32:51,366 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:32:51,928 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:33:10,251 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 16:33:24,274 - JainDIrect -INFO - Entering OTP
+2024-08-31 16:33:34,716 - JainDIrect -INFO - Login test failed
+2024-08-31 16:33:45,160 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 16:33:55,801 - JainDIrect -INFO - validation started....
+2024-08-31 16:33:55,823 - JainDIrect -INFO - test case failed....
+2024-08-31 16:40:05,030 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:40:05,617 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:42:44,271 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:42:44,823 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:43:59,615 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:44:00,416 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:44:03,705 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 16:46:03,448 - JainDIrect -INFO - Base URL is launched
+2024-08-31 16:46:04,242 - JainDIrect -INFO - User Email is provided
+2024-08-31 16:46:22,680 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 16:46:28,106 - JainDIrect -INFO - Entering OTP
+2024-08-31 16:46:28,857 - JainDIrect -INFO - Login test failed
+2024-08-31 17:20:52,450 - JainDIrect -INFO - Base URL is launched
+2024-08-31 17:20:52,870 - JainDIrect -INFO - User Email is provided
+2024-08-31 17:21:11,061 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 17:22:44,924 - JainDIrect -INFO - Base URL is launched
+2024-08-31 17:22:45,309 - JainDIrect -INFO - User Email is provided
+2024-08-31 17:25:32,393 - JainDIrect -INFO - Base URL is launched
+2024-08-31 17:25:32,771 - JainDIrect -INFO - User Email is provided
+2024-08-31 17:33:13,087 - JainDIrect -INFO - Base URL is launched
+2024-08-31 17:33:13,491 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:00:29,665 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:00:30,070 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:01:43,939 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:01:44,341 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:03:05,608 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:03:12,076 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:03:21,295 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:03:29,018 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:03:32,286 - JainDIrect -INFO - Login test failed
+2024-08-31 18:03:35,586 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:03:45,218 - JainDIrect -INFO - validation started....
+2024-08-31 18:03:45,241 - JainDIrect -INFO - test case failed....
+2024-08-31 18:04:56,032 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:05:00,538 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:05:07,738 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:05:13,968 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:05:16,318 - JainDIrect -INFO - Login test failed
+2024-08-31 18:05:19,371 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:05:25,928 - JainDIrect -INFO - validation started....
+2024-08-31 18:05:25,948 - JainDIrect -INFO - test case failed....
+2024-08-31 18:14:53,741 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:14:58,188 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:15:05,417 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:15:11,326 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:15:19,682 - JainDIrect -INFO - Login test failed
+2024-08-31 18:15:21,967 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:15:28,551 - JainDIrect -INFO - validation started....
+2024-08-31 18:15:28,571 - JainDIrect -INFO - test case failed....
+2024-08-31 18:17:03,872 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:17:08,402 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:17:15,593 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:18:35,774 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:18:40,351 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:18:47,594 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:20:50,268 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:20:54,761 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:21:01,996 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:21:08,213 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:21:16,514 - JainDIrect -INFO - Login test failed
+2024-08-31 18:21:18,805 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:21:25,479 - JainDIrect -INFO - validation started....
+2024-08-31 18:21:25,497 - JainDIrect -INFO - test case failed....
+2024-08-31 18:23:27,455 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:23:31,989 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:23:39,210 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:24:13,714 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:24:52,821 - JainDIrect -INFO - Login test failed
+2024-08-31 18:27:17,282 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:27:21,780 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:27:29,020 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:27:34,214 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:27:42,601 - JainDIrect -INFO - Login test failed
+2024-08-31 18:27:44,903 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:27:51,483 - JainDIrect -INFO - validation started....
+2024-08-31 18:27:51,506 - JainDIrect -INFO - test case failed....
+2024-08-31 18:32:32,471 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:32:36,960 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:32:44,224 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:37:00,244 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:37:04,809 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:37:12,021 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:37:50,733 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:38:40,369 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:38:44,941 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:38:52,207 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:42:56,104 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:43:17,465 - JainDIrect -INFO - Login test failed
+2024-08-31 18:44:12,654 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:44:17,166 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:44:24,378 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:44:39,582 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:44:47,936 - JainDIrect -INFO - Login test failed
+2024-08-31 18:44:50,283 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:44:56,994 - JainDIrect -INFO - validation started....
+2024-08-31 18:44:57,014 - JainDIrect -INFO - test case failed....
+2024-08-31 18:45:42,109 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:45:46,624 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:45:53,870 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:46:19,099 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:46:27,457 - JainDIrect -INFO - Login test failed
+2024-08-31 18:46:29,815 - JainDIrect -INFO - Load the Sanstha main page
+2024-08-31 18:46:36,640 - JainDIrect -INFO - validation started....
+2024-08-31 18:46:36,664 - JainDIrect -INFO - test case failed....
+2024-08-31 18:49:30,597 - JainDIrect -INFO - Base URL is launched
+2024-08-31 18:49:35,138 - JainDIrect -INFO - User Email is provided
+2024-08-31 18:49:42,376 - JainDIrect -INFO - Sending the otp to userEmail
+2024-08-31 18:50:03,328 - JainDIrect -INFO - Entering OTP
+2024-08-31 18:50:11,621 - JainDIrect -INFO - Login test failed
+2024-09-02 10:33:29,163 - JainDIrect -INFO - Base URL is launched
+2024-09-02 10:33:33,895 - JainDIrect -INFO - User Email is provided
+2024-09-02 10:33:41,272 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 10:34:02,102 - JainDIrect -INFO - Entering OTP
+2024-09-02 10:34:10,606 - JainDIrect -INFO - Login test failed
+2024-09-02 15:29:43,265 - JainDIrect -INFO - Base URL is launched
+2024-09-02 15:29:48,047 - JainDIrect -INFO - User Email is provided
+2024-09-02 15:29:55,296 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 15:30:16,058 - JainDIrect -INFO - Entering OTP
+2024-09-02 15:30:24,649 - JainDIrect -INFO - Login test failed
+2024-09-02 15:38:04,327 - JainDIrect -INFO - Base URL is launched
+2024-09-02 15:38:09,032 - JainDIrect -INFO - User Email is provided
+2024-09-02 15:38:16,302 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 15:38:37,213 - JainDIrect -INFO - Entering OTP
+2024-09-02 15:38:45,722 - JainDIrect -INFO - Login test failed
+2024-09-02 15:43:55,930 - JainDIrect -INFO - Base URL is launched
+2024-09-02 15:44:00,806 - JainDIrect -INFO - User Email is provided
+2024-09-02 15:44:08,195 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 15:44:28,995 - JainDIrect -INFO - Entering OTP
+2024-09-02 15:44:37,521 - JainDIrect -INFO - Login test failed
+2024-09-02 15:54:08,082 - JainDIrect -INFO - Base URL is launched
+2024-09-02 15:54:12,967 - JainDIrect -INFO - User Email is provided
+2024-09-02 15:54:20,294 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 15:54:41,255 - JainDIrect -INFO - Entering OTP
+2024-09-02 15:54:49,747 - JainDIrect -INFO - Login test failed
+2024-09-02 16:09:19,094 - JainDIrect -INFO - Base URL is launched
+2024-09-02 16:09:23,777 - JainDIrect -INFO - User Email is provided
+2024-09-02 16:09:31,154 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 16:09:52,122 - JainDIrect -INFO - Entering OTP
+2024-09-02 16:10:00,617 - JainDIrect -INFO - Login test failed
+2024-09-02 16:11:47,814 - JainDIrect -INFO - Base URL is launched
+2024-09-02 16:11:52,601 - JainDIrect -INFO - User Email is provided
+2024-09-02 16:11:59,865 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 16:12:20,883 - JainDIrect -INFO - Entering OTP
+2024-09-02 16:12:29,376 - JainDIrect -INFO - Login test failed
+2024-09-02 18:50:54,478 - JainDIrect -INFO - Base URL is launched
+2024-09-02 18:50:59,467 - JainDIrect -INFO - User Email is provided
+2024-09-02 18:51:06,867 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 18:51:27,701 - JainDIrect -INFO - Entering OTP
+2024-09-02 18:51:36,262 - JainDIrect -INFO - Login test failed
+2024-09-02 18:53:54,130 - JainDIrect -INFO - Base URL is launched
+2024-09-02 18:53:59,079 - JainDIrect -INFO - User Email is provided
+2024-09-02 18:54:06,371 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 18:54:27,441 - JainDIrect -INFO - Entering OTP
+2024-09-02 18:54:36,000 - JainDIrect -INFO - Login test failed
+2024-09-02 19:02:35,141 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:02:40,400 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:02:47,913 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:03:09,532 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:03:18,760 - JainDIrect -INFO - Login test failed
+2024-09-02 19:09:09,580 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:09:15,016 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:09:22,715 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:09:44,705 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:09:53,607 - JainDIrect -INFO - Login test failed
+2024-09-02 19:12:43,118 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:12:48,565 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:12:56,086 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:13:17,437 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:13:26,313 - JainDIrect -INFO - Login test failed
+2024-09-02 19:15:05,182 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:15:10,920 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:15:18,571 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:15:39,896 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:15:48,918 - JainDIrect -INFO - Login test failed
+2024-09-02 19:16:55,669 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:17:01,157 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:17:08,604 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:17:29,787 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:17:38,759 - JainDIrect -INFO - Login test failed
+2024-09-02 19:18:44,156 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:18:49,402 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:18:56,923 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:19:18,680 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:19:27,031 - JainDIrect -INFO - Login test failed
+2024-09-02 19:30:49,029 - JainDIrect -INFO - Base URL is launched
+2024-09-02 19:30:53,531 - JainDIrect -INFO - User Email is provided
+2024-09-02 19:31:00,729 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 19:31:21,033 - JainDIrect -INFO - Entering OTP
+2024-09-02 19:31:29,366 - JainDIrect -INFO - Login test failed
+2024-09-02 21:24:40,897 - JainDIrect -INFO - Base URL is launched
+2024-09-02 21:24:45,421 - JainDIrect -INFO - User Email is provided
+2024-09-02 21:24:52,616 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 21:25:12,468 - JainDIrect -INFO - Entering OTP
+2024-09-02 21:25:20,743 - JainDIrect -INFO - Login test failed
+2024-09-02 21:34:21,637 - JainDIrect -INFO - Base URL is launched
+2024-09-02 21:34:26,380 - JainDIrect -INFO - User Email is provided
+2024-09-02 21:34:33,691 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 21:34:54,592 - JainDIrect -INFO - Entering OTP
+2024-09-02 21:35:03,173 - JainDIrect -INFO - Login test failed
+2024-09-02 21:45:50,416 - JainDIrect -INFO - Base URL is launched
+2024-09-02 21:45:55,163 - JainDIrect -INFO - User Email is provided
+2024-09-02 21:46:02,479 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 21:46:23,225 - JainDIrect -INFO - Entering OTP
+2024-09-02 21:46:31,743 - JainDIrect -INFO - Login test failed
+2024-09-02 22:03:51,461 - JainDIrect -INFO - Base URL is launched
+2024-09-02 22:03:56,567 - JainDIrect -INFO - User Email is provided
+2024-09-02 22:04:04,030 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 22:04:24,698 - JainDIrect -INFO - Entering OTP
+2024-09-02 22:04:35,764 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-02 22:04:35,784 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-02 22:04:43,282 - JainDIrect -INFO - validation started....
+2024-09-02 22:04:43,317 - JainDIrect -INFO - test case failed....
+2024-09-02 22:05:58,901 - JainDIrect -INFO - Base URL is launched
+2024-09-02 22:06:03,842 - JainDIrect -INFO - User Email is provided
+2024-09-02 22:06:11,141 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 22:06:31,575 - JainDIrect -INFO - Entering OTP
+2024-09-02 22:06:42,564 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-02 22:06:42,578 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-02 22:06:49,741 - JainDIrect -INFO - validation started....
+2024-09-02 22:06:49,771 - JainDIrect -INFO - test case failed....
+2024-09-02 22:10:01,860 - JainDIrect -INFO - Base URL is launched
+2024-09-02 22:10:06,873 - JainDIrect -INFO - User Email is provided
+2024-09-02 22:10:14,188 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-02 22:10:34,819 - JainDIrect -INFO - Entering OTP
+2024-09-02 22:10:45,814 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-02 22:10:45,832 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-02 22:11:02,999 - JainDIrect -INFO - validation started....
+2024-09-02 22:11:13,389 - JainDIrect -INFO - test case passed....
+2024-09-03 09:32:01,509 - JainDIrect -INFO - Base URL is launched
+2024-09-03 09:32:06,116 - JainDIrect -INFO - User Email is provided
+2024-09-03 09:32:13,288 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-03 09:32:33,535 - JainDIrect -INFO - Entering OTP
+2024-09-03 09:32:44,188 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-03 09:32:44,198 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-03 09:33:00,967 - JainDIrect -INFO - validation started....
+2024-09-03 09:33:11,171 - JainDIrect -INFO - test case passed....
+2024-09-04 10:18:50,125 - JainDIrect -INFO - Base URL is launched
+2024-09-04 10:18:54,713 - JainDIrect -INFO - User Email is provided
+2024-09-04 10:19:01,874 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-04 10:19:22,074 - JainDIrect -INFO - Entering OTP
+2024-09-04 10:19:32,721 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-04 10:19:32,737 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-04 10:19:49,551 - JainDIrect -INFO - validation started....
+2024-09-04 10:19:59,793 - JainDIrect -INFO - test case passed....
+2024-09-05 15:11:45,606 - JainDIrect -INFO - Base URL is launched
+2024-09-05 15:11:50,401 - JainDIrect -INFO - User Email is provided
+2024-09-05 15:11:57,796 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-05 15:12:18,212 - JainDIrect -INFO - Entering OTP
+2024-09-05 15:12:29,127 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-05 15:12:29,141 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-05 15:12:46,348 - JainDIrect -INFO - validation started....
+2024-09-05 15:12:56,631 - JainDIrect -INFO - test case passed....
+2024-09-05 18:58:08,369 - JainDIrect -INFO - Base URL is launched
+2024-09-05 18:58:12,982 - JainDIrect -INFO - User Email is provided
+2024-09-05 18:58:20,227 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-05 18:58:27,566 - JainDIrect -INFO - Entering OTP
+2024-09-09 10:15:49,129 - JainDIrect -INFO - Base URL is launched
+2024-09-09 10:15:54,156 - JainDIrect -INFO - User Email is provided
+2024-09-09 10:16:01,435 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-09 10:16:10,709 - JainDIrect -INFO - Entering OTP
+2024-09-09 13:23:40,171 - JainDIrect -INFO - Base URL is launched
+2024-09-09 13:23:45,429 - JainDIrect -INFO - User Email is provided
+2024-09-09 13:23:52,629 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-09 13:24:00,668 - JainDIrect -INFO - Entering OTP
+2024-09-09 13:27:31,823 - JainDIrect -INFO - Base URL is launched
+2024-09-09 13:27:36,888 - JainDIrect -INFO - User Email is provided
+2024-09-09 13:27:44,094 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-09 13:27:51,850 - JainDIrect -INFO - Entering OTP
+2024-09-09 16:05:47,568 - JainDIrect -INFO - Base URL is launched
+2024-09-09 16:05:52,473 - JainDIrect -INFO - User Email is provided
+2024-09-09 16:05:59,726 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-09 16:06:08,549 - JainDIrect -INFO - Entering OTP
+2024-09-09 16:06:13,729 - JainDIrect -INFO - test case passed....
+2024-09-09 16:06:13,731 - JainDIrect -INFO - Wrong OTP
+2024-09-11 16:42:53,013 - JainDIrect -INFO - Base URL is launched
+2024-09-11 16:42:57,666 - JainDIrect -INFO - User Email is provided
+2024-09-11 16:43:04,886 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-11 16:43:13,445 - JainDIrect -INFO - Entering OTP
+2024-09-11 16:45:41,053 - JainDIrect -INFO - Base URL is launched
+2024-09-11 16:45:45,650 - JainDIrect -INFO - User Email is provided
+2024-09-11 16:45:52,882 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-11 16:46:16,418 - JainDIrect -INFO - Entering OTP
+2024-09-11 20:52:15,852 - JainDIrect -INFO - Base URL is launched
+2024-09-11 20:58:44,258 - JainDIrect -INFO - Base URL is launched
+2024-09-11 21:00:17,829 - JainDIrect -INFO - Base URL is launched
+2024-09-11 21:01:05,057 - JainDIrect -INFO - User Email is provided
+2024-09-11 21:01:12,387 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-11 21:02:09,338 - JainDIrect -INFO - Entering OTP
+2024-09-13 12:15:34,801 - JainDIrect -INFO - Base URL is launched
+2024-09-13 12:15:40,341 - JainDIrect -INFO - User Email is provided
+2024-09-13 12:15:47,847 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-13 12:16:12,253 - JainDIrect -INFO - Entering OTP
+2024-09-13 15:45:15,529 - JainDIrect -INFO - Base URL is launched
+2024-09-13 15:45:20,515 - JainDIrect -INFO - User Email is provided
+2024-09-13 15:45:27,819 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-13 15:45:53,025 - JainDIrect -INFO - Entering OTP
+2024-09-13 15:46:01,255 - JainDIrect -INFO - Sanstha admin page is loaded
+2024-09-13 15:46:01,466 - JainDIrect -INFO - Sanstha Dashboardpage is added successfully
+2024-09-13 20:40:26,089 - JainDIrect -INFO - Base URL is launched
+2024-09-13 20:40:32,189 - JainDIrect -INFO - User Email is provided
+2024-09-13 20:40:39,654 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-13 20:41:03,897 - JainDIrect -INFO - Entering OTP
+2024-09-13 20:41:12,757 - JainDIrect -INFO - Sanstha admin page is loaded
+2024-09-13 20:41:13,005 - JainDIrect -INFO - Sanstha Dashboardpage is added successfully
+2024-09-13 20:48:12,212 - JainDIrect -INFO - Base URL is launched
+2024-09-13 20:48:16,875 - JainDIrect -INFO - User Email is provided
+2024-09-13 20:48:24,083 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-13 20:48:47,260 - JainDIrect -INFO - Entering OTP
+2024-09-13 20:48:55,150 - JainDIrect -INFO - Sanstha admin page is loaded
+2024-09-13 20:48:55,280 - JainDIrect -INFO - Sanstha Dashboardpage is added successfully
+2024-09-13 20:55:44,375 - JainDIrect -INFO - Base URL is launched
+2024-09-13 20:55:49,074 - JainDIrect -INFO - User Email is provided
+2024-09-13 20:55:56,312 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-13 20:56:19,485 - JainDIrect -INFO - Entering OTP
+2024-09-13 20:56:27,357 - JainDIrect -INFO - Sanstha admin page is loaded
+2024-09-13 20:56:27,486 - JainDIrect -INFO - Sanstha Dashboardpage is added successfully
+2024-09-19 11:17:59,687 - JainDIrect -INFO - Base URL is launched
+2024-09-19 11:51:35,999 - JainDIrect -INFO - Base URL is launched
+2024-09-19 11:51:40,875 - JainDIrect -INFO - User Email is provided
+2024-09-19 11:51:48,140 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-19 12:01:44,311 - JainDIrect -INFO - Base URL is launched
+2024-09-19 12:01:49,256 - JainDIrect -INFO - User Email is provided
+2024-09-19 12:01:56,602 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-19 13:45:30,197 - JainDIrect -INFO - Base URL is launched
+2024-09-19 13:45:35,201 - JainDIrect -INFO - User Email is provided
+2024-09-19 13:45:42,508 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-19 16:01:04,622 - JainDIrect -INFO - Base URL is launched
+2024-09-19 16:01:09,274 - JainDIrect -INFO - User Email is provided
+2024-09-19 16:01:16,487 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-19 16:01:20,176 - JainDIrect -INFO - OTP  is not sent.
+2024-09-19 16:02:45,971 - JainDIrect -INFO - Base URL is launched
+2024-09-19 16:02:50,589 - JainDIrect -INFO - User Email is provided
+2024-09-19 16:02:57,779 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-19 16:03:01,011 - JainDIrect -INFO - OTP  is not sent.
+2024-09-19 23:27:58,197 - JainDIrect -INFO - Base URL is launched
+2024-09-19 23:28:03,157 - JainDIrect -INFO - User Email is provided
+2024-09-19 23:28:10,477 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-19 23:28:14,377 - JainDIrect -INFO - OTP  is not sent.
+2024-09-26 10:02:40,064 - JainDIrect -INFO - Base URL is launched
+2024-09-26 10:06:39,747 - JainDIrect -INFO - Base URL is launched
+2024-09-26 10:24:42,769 - JainDIrect -INFO - Base URL is launched
+2024-09-26 10:34:40,357 - JainDIrect -INFO - Base URL is launched
+2024-09-26 10:34:45,863 - JainDIrect -INFO - User Email is provided
+2024-09-26 10:34:53,456 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 10:34:58,251 - JainDIrect -INFO - OTP  is not sent.
+2024-09-26 11:02:24,702 - JainDIrect -INFO - Base URL is launched
+2024-09-26 11:02:29,331 - JainDIrect -INFO - User Email is provided
+2024-09-26 11:02:36,549 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 11:02:38,647 - JainDIrect -INFO - Rending the otp to userEmail
+2024-09-26 11:02:39,651 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 11:38:10,964 - JainDIrect -INFO - Base URL is launched
+2024-09-26 11:38:15,890 - JainDIrect -INFO - User Email is provided
+2024-09-26 11:38:23,257 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 11:38:43,808 - JainDIrect -INFO - Entering OTP
+2024-09-26 11:38:54,894 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-26 11:38:54,910 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-26 11:44:10,353 - JainDIrect -INFO - Base URL is launched
+2024-09-26 11:44:15,192 - JainDIrect -INFO - User Email is provided
+2024-09-26 11:44:22,485 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 11:44:43,672 - JainDIrect -INFO - Entering OTP
+2024-09-26 11:44:54,640 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-26 11:44:54,653 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-26 12:01:49,105 - JainDIrect -INFO - Base URL is launched
+2024-09-26 12:01:53,998 - JainDIrect -INFO - User Email is provided
+2024-09-26 12:02:01,440 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 12:02:22,581 - JainDIrect -INFO - Entering OTP
+2024-09-26 12:04:45,915 - JainDIrect -INFO - Base URL is launched
+2024-09-26 12:04:50,837 - JainDIrect -INFO - User Email is provided
+2024-09-26 12:04:58,125 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 12:05:19,125 - JainDIrect -INFO - Entering OTP
+2024-09-26 12:05:30,112 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-26 12:05:30,129 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-26 14:32:13,847 - JainDIrect -INFO - Base URL is launched
+2024-09-26 14:32:18,507 - JainDIrect -INFO - User Email is provided
+2024-09-26 14:32:25,708 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 14:32:28,649 - JainDIrect -INFO - Rending the otp to userEmail
+2024-09-26 14:32:29,659 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 14:34:30,442 - JainDIrect -INFO - Base URL is launched
+2024-09-26 14:34:35,082 - JainDIrect -INFO - User Email is provided
+2024-09-26 14:34:42,272 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 14:34:47,362 - JainDIrect -INFO - Rending the otp to userEmail
+2024-09-26 14:34:48,364 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 14:40:42,752 - JainDIrect -INFO - Base URL is launched
+2024-09-26 14:40:47,371 - JainDIrect -INFO - User Email is provided
+2024-09-26 14:40:54,586 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 14:40:59,727 - JainDIrect -INFO - Rending the otp to userEmail
+2024-09-26 14:41:00,736 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 14:49:38,866 - JainDIrect -INFO - Base URL is launched
+2024-09-26 14:49:43,861 - JainDIrect -INFO - User Email is provided
+2024-09-26 14:49:51,142 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 14:49:56,286 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 14:50:44,375 - JainDIrect -INFO - Base URL is launched
+2024-09-26 14:50:49,350 - JainDIrect -INFO - User Email is provided
+2024-09-26 14:50:56,630 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 14:51:01,768 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 14:55:47,737 - JainDIrect -INFO - Base URL is launched
+2024-09-26 14:55:52,684 - JainDIrect -INFO - User Email is provided
+2024-09-26 14:55:59,913 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 14:56:05,079 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 15:02:36,338 - JainDIrect -INFO - Base URL is launched
+2024-09-26 15:02:41,325 - JainDIrect -INFO - User Email is provided
+2024-09-26 15:02:48,741 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 15:02:53,902 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 15:02:56,191 - JainDIrect -INFO - Verifing the pop message
+2024-09-26 15:03:16,654 - JainDIrect -INFO - Entering OTP
+2024-09-26 15:03:24,789 - JainDIrect -INFO - opening home page
+2024-09-26 15:32:10,474 - JainDIrect -INFO - Base URL is launched
+2024-09-26 15:32:15,367 - JainDIrect -INFO - User Email is provided
+2024-09-26 15:32:22,625 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 15:32:43,924 - JainDIrect -INFO - Entering OTP
+2024-09-26 15:32:55,099 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-26 15:32:55,115 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-26 15:33:12,265 - JainDIrect -INFO - validation started....
+2024-09-26 15:33:22,530 - JainDIrect -INFO - test case passed....
+2024-09-26 15:33:25,051 - JainDIrect -INFO - LogOut From the application
+2024-09-26 15:34:27,144 - JainDIrect -INFO - Base URL is launched
+2024-09-26 15:34:32,005 - JainDIrect -INFO - User Email is provided
+2024-09-26 15:34:39,266 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 15:34:59,868 - JainDIrect -INFO - Entering OTP
+2024-09-26 15:35:11,041 - JainDIrect -INFO - Load the Sanstha main page
+2024-09-26 15:35:11,058 - JainDIrect -INFO - sanstha page loaded sucessfully
+2024-09-26 15:35:28,295 - JainDIrect -INFO - validation started....
+2024-09-26 15:35:38,524 - JainDIrect -INFO - test case passed....
+2024-09-26 15:35:40,987 - JainDIrect -INFO - LogOut From the application
+2024-09-26 16:33:30,154 - JainDIrect -INFO - Base URL is launched
+2024-09-26 16:33:35,844 - JainDIrect -INFO - User Email is provided
+2024-09-26 16:33:43,327 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 16:34:07,799 - JainDIrect -INFO - Entering OTP
+2024-09-26 16:34:16,482 - JainDIrect -INFO - Sanstha admin page is loaded
+2024-09-26 16:34:16,713 - JainDIrect -INFO - Sanstha Dashboardpage is added successfully
+2024-09-26 16:36:18,700 - JainDIrect -INFO - Base URL is launched
+2024-09-26 16:36:24,034 - JainDIrect -INFO - User Email is provided
+2024-09-26 16:36:31,475 - JainDIrect -INFO - Sending the otp to userEmail
+2024-09-26 16:36:55,738 - JainDIrect -INFO - Entering OTP
+2024-09-26 16:37:04,640 - JainDIrect -INFO - Sanstha admin page is loaded
+2024-09-26 16:37:04,882 - JainDIrect -INFO - Sanstha Dashboardpage is added successfully
+2024-09-26 16:37:07,152 - JainDIrect -INFO - Naviagte to NewsFeed
